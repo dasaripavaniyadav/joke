@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 15px;
+    
+    background-image: url("n.jpg");
+    background-size: cover;
+    
+    
+
+}
+#Btn{
+    font-size: 30px;
+    background-color: aqua;
+    
+}
+#Btn{
+    cursor: pointer;
+}
+#joke , #jokeContent{
+    padding: 20px;
+    font-size: 20px;
+}
